@@ -1,0 +1,61 @@
+{
+		"halt":{
+				"uid": "7",
+				"full_name": "halt",
+				"groups": []
+		},
+		"lp":{
+				"uid": "4",
+				"full_name": "lp",
+				"groups": []
+		},
+		"mail":{
+				"uid": "8",
+				"full_name": "mail",
+				"groups": []
+		},
+		"bin":{
+				"uid": "1",
+				"full_name": "bin",
+				"groups": [
+				"bin",
+				"daemon",
+				"sys"
+		},
+		"root":{
+				"uid": "0",
+				"full_name": "root",
+				"groups": []
+		},
+		"adm":{
+				"uid": "3",
+				"full_name": "adm",
+				"groups": [
+				"sys",
+				"adm"
+		},
+		"uucp":{
+				"uid": "10",
+				"full_name": "uucp",
+				"groups": []
+		},
+		"sync":{
+				"uid": "5",
+				"full_name": "sync",
+				"groups": []
+		},
+		"shutdown":{
+				"uid": "6",
+				"full_name": "shutdown",
+				"groups": []
+		},
+		"daemon":{
+				"uid": "2",
+				"full_name": "daemon",
+				"groups": [
+				"bin",
+				"daemon",
+				"adm",
+				"lp"
+		}
+}
